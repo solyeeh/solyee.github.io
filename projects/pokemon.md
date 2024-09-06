@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: 
+image: img/pokemon.png
 title: "Pokemon GUI"
 date: 2021
 published: true
