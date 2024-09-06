@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image:
+image: img/pie.jpg
 title: "Lead Baker"
 date: 2016-2019
 published: true
